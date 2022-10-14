@@ -1,0 +1,15 @@
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\bin\Debug\net6.0\Piano_practice.exe
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\bin\Debug\net6.0\Piano_practice.deps.json
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\bin\Debug\net6.0\Piano_practice.runtimeconfig.json
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\bin\Debug\net6.0\Piano_practice.dll
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\bin\Debug\net6.0\Piano_practice.pdb
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\obj\Debug\net6.0\Piano_practice.csproj.AssemblyReference.cache
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\obj\Debug\net6.0\Piano_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\obj\Debug\net6.0\Piano_practice.AssemblyInfoInputs.cache
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\obj\Debug\net6.0\Piano_practice.AssemblyInfo.cs
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\obj\Debug\net6.0\Piano_practice.csproj.CoreCompileInputs.cache
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\obj\Debug\net6.0\Piano_practice.dll
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\obj\Debug\net6.0\refint\Piano_practice.dll
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\obj\Debug\net6.0\Piano_practice.pdb
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\obj\Debug\net6.0\Piano_practice.genruntimeconfig.cache
+C:\Users\Mann\source\repos\mann\Piano_practice\Piano_practice\obj\Debug\net6.0\ref\Piano_practice.dll
